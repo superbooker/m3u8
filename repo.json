@@ -1,8 +1,8 @@
 {
-    "name": "French Repo",
+    "name": "French Repo test",
     "description": "French Repository Forked de Eddy's Repo",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://codeberg.org/zzikozz/frencharchive/raw/branch/Release/plugins.json"
+        "https://raw.githubusercontent.com/superbooker/m3u8/refs/heads/main/plugins.json"
     ]
 }
