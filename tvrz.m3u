@@ -1,0 +1,135 @@
+﻿#EXTM3U
+#EXTINF:-1,-------------- France
+//
+#EXTINF:-1,TF1
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
+#EXTINF:-1,France 2
+https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/france2.m3u8
+#EXTINF:-1,France 3
+https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/france3.m3u8
+#EXTINF:-1,France 4
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
+#EXTINF:-1,France 5
+https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/francetv/france5.m3u8
+#EXTINF:-1,M6
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+#EXTINF:-1,Arte
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1,LCP
+https://tvradiozap.eu/tools/dm-m3u8.php/xgepjr
+#EXTINF:-1,Public Sénat
+https://tvradiozap.eu/tools/dm-m3u8.php/xkxbzc
+#EXTINF:-1,W9
+https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
+#EXTINF:-1,TMC
+https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
+#EXTINF:-1,TFX
+https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
+#EXTINF:-1,Gulli
+https://tvradiozap.eu/tools/np-m3u8.php/gulli.m3u8
+#EXTINF:-1,BFM TV
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1,CNews
+https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
+#EXTINF:-1,LCI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
+#EXTINF:-1,France Info
+https://tvradiozap.eu/tools/dm-m3u8.php/x4rdeu6
+#EXTINF:-1,CStar
+https://tvradiozap.eu/tools/dm-m3u8.php/x5gv5v0
+#EXTINF:-1,T18
+https://tvradiozap.eu/tools/np-m3u8.php/t18.m3u8
+#EXTINF:-1,Novo19
+https://novo19.ouest-france.fr/embed/novo19
+#EXTINF:-1,TF1 Séries Films
+https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
+#EXTINF:-1,L'Équipe
+https://tvradiozap.eu/tools/dm-m3u8.php/x2lefik
+#EXTINF:-1,6TER
+https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
+#EXTINF:-1,RMC Story
+https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
+#EXTINF:-1,RMC Découverte
+https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
+#EXTINF:-1,Chérie 25
+https://tvradiozap.eu/tools/np-m3u8.php/cherie25.m3u8
+#EXTINF:-1,Tébéo (Bretagne)
+https://live-tebeo.digiteka.com/1597386841/index.m3u8
+#EXTINF:-1,Le Figaro TV
+https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+#EXTINF:-1,LG 1:Film
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13954
+#EXTINF:-1,Wildside TV
+https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,France 24
+https://tvradiozap.eu/tv/m3u8/france24.m3u8
+#EXTINF:-1,CR Concept Radio
+https://srv.webtvmanager.fr:3635/stream/play.m3u8
+#EXTINF:-1,Qwest Jazz
+https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
+#EXTINF:-1,Love the Planet
+https://amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr-hfam1.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr/playlist.m3u8
+#EXTINF:-1,L'Esprit Sorcier
+https://bazikafrica.vedge.infomaniak.com/livecast/ik:bazikafrica/master.m3u8
+#EXTINF:-1,Tech&Co
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8
+#EXTINF:-1,Sport en France
+https://tvradiozap.eu/tools/dm-m3u8.php/x8sayn8
+#EXTINF:-1,Arte Invitation au Voyage
+https://d3223vg0o80ccf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xn2vfltkhli08/Invitationauvoyage_FR.m3u8
+#EXTINF:-1,Voyages et Saveurs
+https://amg01821-amg01821c24-samsung-fr-5157.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-voyagesandsaveurs-samsungfr/playlist.m3u8
+#EXTINF:-1,-------------- Belgique
+//
+#EXTINF:-1,LN24  (BE)
+https://live-ln24.digiteka.com/1911668011/playlist.m3u8
+#EXTINF:-1,BX1 (Bruxelles BE)
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1,-------------- Canada
+//
+#EXTINF:-1,Noovo Cinéma  (CA)
+https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
+#EXTINF:-1,Ici RDI  (CA)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1,-------------- Corée du Sud
+//
+#EXTINF:-1,GONG  (KO)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
+#EXTINF:-1,-------------- Côte d’Ivoire
+//
+#EXTINF:-1,RTI 1 (CI)
+https://stream.ecable.tv/rti1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RTI 2 (CI)
+https://stream.ecable.tv/rti2/index.m3u8
+#EXTINF:-1,NCI (CI)
+https://cdnapisec.kaltura.com/p/5571652/sp/557165200/playManifest/entryId/1_2gnrfyb6/protocol/https/format/applehttp/flavorIds/0.m3u8
+#EXTINF:-1,LifeTV (CI)
+https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8
+#EXTINF:-1,-------------- Monaco
+//
+#EXTINF:-1,TV Monaco
+https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
+#EXTINF:-1,-------------- Polynésie française
+//
+#EXTINF:-1,TNTV Tahiti TV
+https://tntv-samsung-fr.amagi.tv/hls/amagi_hls_data_samsungfr-tntv-samsungfr/CDN/playlist.m3u8
+#EXTINF:-1,-------------- Royaume-Uni
+//
+#EXTINF:-1,BBC Earth (GB)
+https://amg00793-amg00793c22-samsung-fr-4776.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthfrance-samsungfr/playlist.m3u8
+#EXTINF:-1,-------------- Suisse
+//
+#EXTINF:-1,RTS1
+https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
+#EXTINF:-1,RTS2
+https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
+#EXTINF:-1,Carac1 (CH)
+https://rougetv.vedge.infomaniak.com/livecast/rougetv/master.m3u8
+#EXTINF:-1,Carac2 (CH)
+https://onefmmd.vedge.infomaniak.com/livecast/onefmmd/manifest.m3u8
+#EXTINF:-1,Carac3 (CH)
+https://lfmmd.vedge.infomaniak.com/livecast/lfmmd/manifest.m3u8
+#EXTINF:-1,Carac4 (CH)
+https://edge12.vedge.infomaniak.com/livecast/ik:compack_media_1/manifest.m3u8
+#EXTINF:-1,Leman Bleu  (CH)
+https://naxoo.vedge.infomaniak.com/livecast/naxoo/manifest.m3u8
